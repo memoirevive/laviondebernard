@@ -3,6 +3,9 @@ Bonjour !
 On vous met à disposition le script qu'on utilise pour aller chercher les infos de vols, générer les images et les poster sur instagram. 
 Faites-en bon usage !
 
+# Fonctionnement
+Le script va chercher les infos de vol sur l'API OpenSkyNetwork (vous pouvez changer le numéro de l'avion et les dates de recherche), crée une image par vol, et poste l'image sur Instagram. On a aussi codé des hashtags aléatoires, le calcul du CO2 etc... Il envoie le déroulé du script par email à la fin, comme ça pas besoin de surveiller son ordinateur :)
+
 # Aide
 Comme on a codé rapidement, le script n'est pas hyper facile à utiliser par tous. Donc on vous conseille de regarder le script du début à la fin pour comprendre comment ça marche.
 
