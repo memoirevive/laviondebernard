@@ -16,7 +16,7 @@ Avant tout :
 
 A modifier pour que ça marche chez vous :
 - ligne 22 : chemin absolu vers le fichier bernard.py
-- ligne 39,40,41 : infos sur l'avion
+- ligne 39,40,41 : infos sur l'avion (y compris émissions de CO2 par km)
 - ligne 46 : chemin absolu vers le geckodriver
 - ligne 50 : chemin absolu vers votre profil firefox (pour garder les sessions instagram ouvertes avec des cookies)
 - ligne 56,57 : identifiants instagram
