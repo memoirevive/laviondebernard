@@ -1,4 +1,4 @@
-# Script - L'avion de Bernard
+# L'avion de Bernard
 Bonjour ! 
 On vous met à disposition le script qu'on utilise pour aller chercher les infos de vols, générer les images et les poster sur instagram. 
 Faites-en bon usage !
