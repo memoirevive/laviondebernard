@@ -9,6 +9,7 @@ Comme on a codé rapidement, le script n'est pas hyper facile à utiliser par to
 Avant tout :
 - Il vous faut python et les librairies listées en haut du script
 - Firefox et le geckodriver correspondant (pour automatiser la navigation)
+- Mettre votre instagram en français
 
 A modifier pour que ça marche chez vous :
 - ligne 22 : chemin absolu vers le fichier bernard.py
